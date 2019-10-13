@@ -1,8 +1,8 @@
 {
     "remotePath": "./photos_panel/",
     "host": "mixereq.pl",
-    "username": "ftpuser",
-    "password": "Matiozo1w!",
+    "username": "encoded",
+    "password": "encoded",
     "port": 21,
     "secure": false,
     "protocol": "ftp",
